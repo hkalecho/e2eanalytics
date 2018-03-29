@@ -1,0 +1,44 @@
+Welcome To Snakes And Ladders
+
+CLI input was: firstsnakeimmunity
+------------------------------------------------Game Board------------------------------------------------------------------------
+1	2	3	4	5	6
+7	8	9	10	11	12
+13	14	15	16	17	18
+19	20	21	22	23	24
+25	26	27	28	29	30
+31	32	33	34	35	36
+
+--------------------------------------Ladders and Snakes Locations ----------------------------------------------------------------
+SnakeStart  SnakeEnd  LadderStart  LadderEnd 
+      12         2           3            16
+      14        11           5             7
+      17         4          15            25
+      31        19          18            20
+      35        22          21            32
+----------------------------------------------------------------------------------------------------------------------------------
+
+
+Main: Gametype = firstsnakeimmunity Games to play = 10000
+
+
+----------------------------------------Start Game Stats-----------------------------------------------------------------
+
+Gametype = firstsnakeimmunity Games to play = 10000
+
+UserPositionInit = 1 CompPositionInit = 1
+
+User won = 4453
+Comp won = 5547
+User Win Prob: 0.445300 Comp Win Prob: 0.554700
+Absolute value win prob difference: 0.109400
+User snakes = 14542 User ladders = 12117
+Comp snakes = 13886 Comp ladders = 13457
+Snakes per game = 2.8428 Ladders per game = 2.5574
+User rolls = 90494 Comp rolls = 90494 Total rolls = 180988
+Average rolls per game: 18.098800
+-----------------------------------------End Game Stats-----------------------------------------------------------------
+
+
+SIMULATION ENDED
+

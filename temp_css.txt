@@ -1,0 +1,425 @@
+Welcome To Snakes And Ladders
+
+CLI input was: changestartsquare
+------------------------------------------------Game Board------------------------------------------------------------------------
+1	2	3	4	5	6
+7	8	9	10	11	12
+13	14	15	16	17	18
+19	20	21	22	23	24
+25	26	27	28	29	30
+31	32	33	34	35	36
+
+--------------------------------------Ladders and Snakes Locations ----------------------------------------------------------------
+SnakeStart  SnakeEnd  LadderStart  LadderEnd 
+      12         2           3            16
+      14        11           5             7
+      17         4          15            25
+      31        19          18            20
+      35        22          21            32
+----------------------------------------------------------------------------------------------------------------------------------
+
+
+Main: Gametype = changestartsquare Games to play = 10000
+
+
+----------------------------------------Start Game Stats-----------------------------------------------------------------
+
+Gametype = changestartsquare Games to play = 10000
+
+UserPositionInit = 1 CompPositionInit = 1
+
+User won = 5222
+Comp won = 4778
+User Win Prob: 0.522200 Comp Win Prob: 0.477800
+Absolute value win prob difference: 0.044400
+User snakes = 15710 User ladders = 12683
+Comp snakes = 15939 Comp ladders = 12722
+Snakes per game = 3.1649 Ladders per game = 2.5405
+User rolls = 97660 Comp rolls = 97660 Total rolls = 195320
+Average rolls per game: 19.532000
+-----------------------------------------End Game Stats-----------------------------------------------------------------
+
+
+Main: Gametype = changestartsquare Games to play = 10000
+
+
+----------------------------------------Start Game Stats-----------------------------------------------------------------
+
+Gametype = changestartsquare Games to play = 10000
+
+UserPositionInit = 1 CompPositionInit = 2
+
+User won = 5256
+Comp won = 4744
+User Win Prob: 0.525600 Comp Win Prob: 0.474400
+Absolute value win prob difference: 0.051200
+User snakes = 15788 User ladders = 12740
+Comp snakes = 16746 Comp ladders = 12498
+Snakes per game = 3.2534 Ladders per game = 2.5238
+User rolls = 97710 Comp rolls = 97710 Total rolls = 195420
+Average rolls per game: 19.542000
+-----------------------------------------End Game Stats-----------------------------------------------------------------
+
+
+Main: Gametype = changestartsquare Games to play = 10000
+
+
+----------------------------------------Start Game Stats-----------------------------------------------------------------
+
+Gametype = changestartsquare Games to play = 10000
+
+UserPositionInit = 1 CompPositionInit = 3
+
+User won = 5435
+Comp won = 4565
+User Win Prob: 0.543500 Comp Win Prob: 0.456500
+Absolute value win prob difference: 0.087000
+User snakes = 16208 User ladders = 12979
+Comp snakes = 17737 Comp ladders = 11297
+Snakes per game = 3.3945 Ladders per game = 2.4276
+User rolls = 99750 Comp rolls = 99750 Total rolls = 199500
+Average rolls per game: 19.950000
+-----------------------------------------End Game Stats-----------------------------------------------------------------
+
+
+Main: Gametype = changestartsquare Games to play = 10000
+
+
+----------------------------------------Start Game Stats-----------------------------------------------------------------
+
+Gametype = changestartsquare Games to play = 10000
+
+UserPositionInit = 1 CompPositionInit = 4
+
+User won = 5362
+Comp won = 4638
+User Win Prob: 0.536200 Comp Win Prob: 0.463800
+Absolute value win prob difference: 0.072400
+User snakes = 16100 User ladders = 12734
+Comp snakes = 18093 Comp ladders = 11119
+Snakes per game = 3.4193 Ladders per game = 2.3853
+User rolls = 99226 Comp rolls = 99226 Total rolls = 198452
+Average rolls per game: 19.845200
+-----------------------------------------End Game Stats-----------------------------------------------------------------
+
+
+Main: Gametype = changestartsquare Games to play = 10000
+
+
+----------------------------------------Start Game Stats-----------------------------------------------------------------
+
+Gametype = changestartsquare Games to play = 10000
+
+UserPositionInit = 1 CompPositionInit = 5
+
+User won = 5140
+Comp won = 4860
+User Win Prob: 0.514000 Comp Win Prob: 0.486000
+Absolute value win prob difference: 0.028000
+User snakes = 16161 User ladders = 12699
+Comp snakes = 18167 Comp ladders = 9336
+Snakes per game = 3.4328 Ladders per game = 2.2035
+User rolls = 98446 Comp rolls = 98446 Total rolls = 196892
+Average rolls per game: 19.689200
+-----------------------------------------End Game Stats-----------------------------------------------------------------
+
+
+Main: Gametype = changestartsquare Games to play = 10000
+
+
+----------------------------------------Start Game Stats-----------------------------------------------------------------
+
+Gametype = changestartsquare Games to play = 10000
+
+UserPositionInit = 1 CompPositionInit = 6
+
+User won = 5171
+Comp won = 4829
+User Win Prob: 0.517100 Comp Win Prob: 0.482900
+Absolute value win prob difference: 0.034200
+User snakes = 15976 User ladders = 12743
+Comp snakes = 19082 Comp ladders = 9783
+Snakes per game = 3.5058 Ladders per game = 2.2526
+User rolls = 97861 Comp rolls = 97861 Total rolls = 195722
+Average rolls per game: 19.572200
+-----------------------------------------End Game Stats-----------------------------------------------------------------
+
+
+Main: Gametype = changestartsquare Games to play = 10000
+
+
+----------------------------------------Start Game Stats-----------------------------------------------------------------
+
+Gametype = changestartsquare Games to play = 10000
+
+UserPositionInit = 1 CompPositionInit = 7
+
+User won = 4938
+Comp won = 5062
+User Win Prob: 0.493800 Comp Win Prob: 0.506200
+Absolute value win prob difference: 0.012400
+User snakes = 15510 User ladders = 12584
+Comp snakes = 18425 Comp ladders = 9785
+Snakes per game = 3.3935 Ladders per game = 2.2369
+User rolls = 95326 Comp rolls = 95326 Total rolls = 190652
+Average rolls per game: 19.065200
+-----------------------------------------End Game Stats-----------------------------------------------------------------
+
+
+Main: Gametype = changestartsquare Games to play = 10000
+
+
+----------------------------------------Start Game Stats-----------------------------------------------------------------
+
+Gametype = changestartsquare Games to play = 10000
+
+UserPositionInit = 1 CompPositionInit = 8
+
+User won = 4911
+Comp won = 5089
+User Win Prob: 0.491100 Comp Win Prob: 0.508900
+Absolute value win prob difference: 0.017800
+User snakes = 15298 User ladders = 12515
+Comp snakes = 19907 Comp ladders = 9579
+Snakes per game = 3.5205 Ladders per game = 2.2094
+User rolls = 94203 Comp rolls = 94203 Total rolls = 188406
+Average rolls per game: 18.840600
+-----------------------------------------End Game Stats-----------------------------------------------------------------
+
+
+Main: Gametype = changestartsquare Games to play = 10000
+
+
+----------------------------------------Start Game Stats-----------------------------------------------------------------
+
+Gametype = changestartsquare Games to play = 10000
+
+UserPositionInit = 1 CompPositionInit = 9
+
+User won = 4435
+Comp won = 5565
+User Win Prob: 0.443500 Comp Win Prob: 0.556500
+Absolute value win prob difference: 0.113000
+User snakes = 14595 User ladders = 11946
+Comp snakes = 18516 Comp ladders = 9859
+Snakes per game = 3.3111 Ladders per game = 2.1805
+User rolls = 89981 Comp rolls = 89981 Total rolls = 179962
+Average rolls per game: 17.996200
+-----------------------------------------End Game Stats-----------------------------------------------------------------
+
+
+Main: Gametype = changestartsquare Games to play = 10000
+
+
+----------------------------------------Start Game Stats-----------------------------------------------------------------
+
+Gametype = changestartsquare Games to play = 10000
+
+UserPositionInit = 1 CompPositionInit = 10
+
+User won = 4224
+Comp won = 5776
+User Win Prob: 0.422400 Comp Win Prob: 0.577600
+Absolute value win prob difference: 0.155200
+User snakes = 14370 User ladders = 11873
+Comp snakes = 17723 Comp ladders = 9408
+Snakes per game = 3.2093 Ladders per game = 2.1281
+User rolls = 88292 Comp rolls = 88292 Total rolls = 176584
+Average rolls per game: 17.658400
+-----------------------------------------End Game Stats-----------------------------------------------------------------
+
+
+Main: Gametype = changestartsquare Games to play = 10000
+
+
+----------------------------------------Start Game Stats-----------------------------------------------------------------
+
+Gametype = changestartsquare Games to play = 10000
+
+UserPositionInit = 1 CompPositionInit = 11
+
+User won = 4358
+Comp won = 5642
+User Win Prob: 0.435800 Comp Win Prob: 0.564200
+Absolute value win prob difference: 0.128400
+User snakes = 14622 User ladders = 12064
+Comp snakes = 18875 Comp ladders = 9681
+Snakes per game = 3.3497 Ladders per game = 2.1745
+User rolls = 89477 Comp rolls = 89477 Total rolls = 178954
+Average rolls per game: 17.895400
+-----------------------------------------End Game Stats-----------------------------------------------------------------
+
+
+Main: Gametype = changestartsquare Games to play = 10000
+
+
+----------------------------------------Start Game Stats-----------------------------------------------------------------
+
+Gametype = changestartsquare Games to play = 10000
+
+UserPositionInit = 1 CompPositionInit = 12
+
+User won = 3822
+Comp won = 6178
+User Win Prob: 0.382200 Comp Win Prob: 0.617800
+Absolute value win prob difference: 0.235600
+User snakes = 13309 User ladders = 11567
+Comp snakes = 15755 Comp ladders = 9710
+Snakes per game = 2.9064 Ladders per game = 2.1277
+User rolls = 83718 Comp rolls = 83718 Total rolls = 167436
+Average rolls per game: 16.743600
+-----------------------------------------End Game Stats-----------------------------------------------------------------
+
+
+Main: Gametype = changestartsquare Games to play = 10000
+
+
+----------------------------------------Start Game Stats-----------------------------------------------------------------
+
+Gametype = changestartsquare Games to play = 10000
+
+UserPositionInit = 1 CompPositionInit = 13
+
+User won = 3535
+Comp won = 6465
+User Win Prob: 0.353500 Comp Win Prob: 0.646500
+Absolute value win prob difference: 0.293000
+User snakes = 13131 User ladders = 11459
+Comp snakes = 14547 Comp ladders = 8619
+Snakes per game = 2.7678 Ladders per game = 2.0078
+User rolls = 80965 Comp rolls = 80965 Total rolls = 161930
+Average rolls per game: 16.193000
+-----------------------------------------End Game Stats-----------------------------------------------------------------
+
+
+Main: Gametype = changestartsquare Games to play = 10000
+
+
+----------------------------------------Start Game Stats-----------------------------------------------------------------
+
+Gametype = changestartsquare Games to play = 10000
+
+UserPositionInit = 1 CompPositionInit = 14
+
+User won = 3192
+Comp won = 6808
+User Win Prob: 0.319200 Comp Win Prob: 0.680800
+Absolute value win prob difference: 0.361600
+User snakes = 12458 User ladders = 11034
+Comp snakes = 10933 Comp ladders = 7373
+Snakes per game = 2.3391 Ladders per game = 1.8407
+User rolls = 77261 Comp rolls = 77261 Total rolls = 154522
+Average rolls per game: 15.452200
+-----------------------------------------End Game Stats-----------------------------------------------------------------
+
+
+Main: Gametype = changestartsquare Games to play = 10000
+
+
+----------------------------------------Start Game Stats-----------------------------------------------------------------
+
+Gametype = changestartsquare Games to play = 10000
+
+UserPositionInit = 1 CompPositionInit = 15
+
+User won = 2988
+Comp won = 7012
+User Win Prob: 0.298800 Comp Win Prob: 0.701200
+Absolute value win prob difference: 0.402400
+User snakes = 11369 User ladders = 10446
+Comp snakes = 10467 Comp ladders = 7399
+Snakes per game = 2.1836 Ladders per game = 1.7845
+User rolls = 72624 Comp rolls = 72624 Total rolls = 145248
+Average rolls per game: 14.524800
+-----------------------------------------End Game Stats-----------------------------------------------------------------
+
+
+Main: Gametype = changestartsquare Games to play = 10000
+
+
+----------------------------------------Start Game Stats-----------------------------------------------------------------
+
+Gametype = changestartsquare Games to play = 10000
+
+UserPositionInit = 1 CompPositionInit = 16
+
+User won = 2872
+Comp won = 7128
+User Win Prob: 0.287200 Comp Win Prob: 0.712800
+Absolute value win prob difference: 0.425600
+User snakes = 11251 User ladders = 10480
+Comp snakes = 9990 Comp ladders = 6453
+Snakes per game = 2.1241 Ladders per game = 1.6933
+User rolls = 71553 Comp rolls = 71553 Total rolls = 143106
+Average rolls per game: 14.310600
+-----------------------------------------End Game Stats-----------------------------------------------------------------
+
+
+Main: Gametype = changestartsquare Games to play = 10000
+
+
+----------------------------------------Start Game Stats-----------------------------------------------------------------
+
+Gametype = changestartsquare Games to play = 10000
+
+UserPositionInit = 1 CompPositionInit = 17
+
+User won = 2290
+Comp won = 7710
+User Win Prob: 0.229000 Comp Win Prob: 0.771000
+Absolute value win prob difference: 0.542000
+User snakes = 10198 User ladders = 9936
+Comp snakes = 6594 Comp ladders = 4866
+Snakes per game = 1.6792 Ladders per game = 1.4802
+User rolls = 65359 Comp rolls = 65359 Total rolls = 130718
+Average rolls per game: 13.071800
+-----------------------------------------End Game Stats-----------------------------------------------------------------
+
+
+Main: Gametype = changestartsquare Games to play = 10000
+
+
+----------------------------------------Start Game Stats-----------------------------------------------------------------
+
+Gametype = changestartsquare Games to play = 10000
+
+UserPositionInit = 1 CompPositionInit = 18
+
+User won = 2234
+Comp won = 7766
+User Win Prob: 0.223400 Comp Win Prob: 0.776600
+Absolute value win prob difference: 0.553200
+User snakes = 10191 User ladders = 9968
+Comp snakes = 6813 Comp ladders = 2813
+Snakes per game = 1.7004 Ladders per game = 1.2781
+User rolls = 65409 Comp rolls = 65409 Total rolls = 130818
+Average rolls per game: 13.081800
+-----------------------------------------End Game Stats-----------------------------------------------------------------
+
+
+Main: Gametype = changestartsquare Games to play = 10000
+
+
+----------------------------------------Start Game Stats-----------------------------------------------------------------
+
+Gametype = changestartsquare Games to play = 10000
+
+UserPositionInit = 1 CompPositionInit = 19
+
+User won = 2158
+Comp won = 7842
+User Win Prob: 0.215800 Comp Win Prob: 0.784200
+Absolute value win prob difference: 0.568400
+User snakes = 10056 User ladders = 9948
+Comp snakes = 7022 Comp ladders = 2589
+Snakes per game = 1.7078 Ladders per game = 1.2537
+User rolls = 64403 Comp rolls = 64403 Total rolls = 128806
+Average rolls per game: 12.880600
+-----------------------------------------End Game Stats-----------------------------------------------------------------
+
+
+Player2 start square with closest to equal odds = 7
+
+
+SIMULATION ENDED
+
